@@ -69,7 +69,3 @@ a {
     transform: rotate(360deg);
   }
 }
-body {
-  background-image: url("AN.jpg");
-  background-size: cover;
-}
